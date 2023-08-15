@@ -1,0 +1,25 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=lucio
+$$ 2023-05-13 23:25:06.333 +0300  lucio@wis15nmrpc
+$$ /opt/PV6.0.1/data/lucio/20230513_225141_elton_9batch_tumor_mouse6_injGlu_elton_9bat_1_1/AdjResult/2.16.756.5.5.100.1300518730.7549.1684009448.17/result.jcamp
+$$ process /opt/PV6.0.1/prog/mod/pipe
+##$PVM_FrqAdj1H=649.883908081911
+##$PVM_FrqAdj1HPpm=4.7
+##$PVM_NucleiPpmRef=( 20 )
+(<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) 
+(<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) 
+(<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) 
+(<none>, 0) (<none>, 0)
+##$PVM_NAdjShimsets=1
+##$PVM_AdjShimsets=( 1 )
+(0, -2192, 912, -1935, 0, 946, -745, 27, -123, -262, -1413, 974, 4567, 0, 
+-2128, 337, -249, 686, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+0, 0, 0)
+##$PVM_AdjActShimset=(0, -2192, 912, -1935, 0, 946, -745, 27, -123, -1195, 
+-538, 974, 4567, 0, 933, -875, -249, 686, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+0, 0, 0, 0, 0, 0, 0, 0, 0)
+##END=
+$$ File finished by PARX at 2023-05-13 23:25:06.333 +0300

@@ -1,0 +1,57 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=lucio
+$$ 2023-05-13 23:33:33.890 +0300  lucio@wis15nmrpc
+$$ /opt/PV6.0.1/data/lucio/20230513_225141_elton_9batch_tumor_mouse6_injGlu_elton_9bat_1_1/AdjStatePerStudy
+$$ process /opt/PV6.0.1/prog/mod/pipe
+##$AdjStudyStateCompleted=Yes
+##$AdjStudyStateResetNdx=0
+##$AdjStudyStateAdjName=( 11, 128 )
+<FREQ_Standard> <FREQ_Standard> <FREQ_Standard> <FREQ_Standard> 
+<FREQ_Standard> <FREQ_Standard> <FREQ_Standard> <FREQ_Standard> <SHIM_Study> 
+<TRANSM_Standard> <B0Map_Standard>
+##$AdjStudyStateCategory=( 11 )
+FREQ FREQ FREQ FREQ FREQ FREQ FREQ FREQ SHIM TRANSM OTHERADJ
+##$AdjStudyStateTime=( 11 )
+<2023-05-13T23:16:53,491+0300> <2023-05-13T23:17:05,577+0300> 
+<2023-05-13T23:17:24,046+0300> <2023-05-13T23:17:37,284+0300> 
+<2023-05-13T23:17:53,841+0300> <2023-05-13T23:18:10,688+0300> 
+<2023-05-13T23:18:31,146+0300> <2023-05-13T23:18:51,449+0300> 
+<2023-05-13T23:19:06,072+0300> <2023-05-13T23:20:58,584+0300> 
+<2023-05-13T23:22:30,598+0300>
+##$AdjStudyStateExpno=( 11 )
+900001 900001 900001 900001 900001 900001 900001 900001 1 900000 3
+##$AdjStudyStateState=( 11 )
+adj_successful adj_successful adj_successful adj_successful adj_successful 
+adj_successful adj_successful adj_successful adj_successful adj_successful 
+adj_successful
+##$AdjStudyStateResultId=( 11, 65 )
+<2.16.756.5.5.100.1300518730.31740.1684009013.5> 
+<2.16.756.5.5.100.1300518730.31892.1684009025.6> 
+<2.16.756.5.5.100.1300518730.32100.1684009044.7> 
+<2.16.756.5.5.100.1300518730.32251.1684009057.8> 
+<2.16.756.5.5.100.1300518730.32403.1684009073.9> 
+<2.16.756.5.5.100.1300518730.32569.1684009090.10> 
+<2.16.756.5.5.100.1300518730.32727.1684009111.11> 
+<2.16.756.5.5.100.1300518730.498.1684009131.12> 
+<2.16.756.5.5.100.1300518730.849.1684009145.14> 
+<2.16.756.5.5.100.1300518730.2454.1684009258.14> 
+<2.16.756.5.5.100.1300518730.2866.1684009340.15>
+##$AdjStudyStateMethod=( 11, 128 )
+<Bruker:AdjSf> <Bruker:AdjSf> <Bruker:AdjSf> <Bruker:AdjSf> <Bruker:AdjSf> 
+<Bruker:AdjSf> <Bruker:AdjSf> <Bruker:AdjSf> <Bruker:AdjShim> <Bruker:AdjRefG>
+ <Bruker:FieldMap>
+##$AdjStudyStateMethodContext=( 11, 1024 )
+<> <> <> <> <> <> <> <> <> <> <>
+##$AdjStudyStateHwChainNdxs=( 11 )
+(0, 0) (0, 0) (0, 0) (0, 0) (0, 0) (0, 0) (0, 0) (0, 0) (0, 1) (1, 1) (2, 1)
+##$AdjStudyStateHwChains=( 3 )
+((SHIM_CHAIN, -1), <BFG6S-100GRADSYSTEMforBC150/11 (RRI T124345/5586).576649>)
+ ((TRANS_CHAIN, -2), <2.16.756.5.5.100.1300518730.21547.1623305175.33 -2 2 2 
+2 1 4 1H  0>) ((SHIM_CHAIN, -1), <BFG6S-100GRADSYSTEMforBC150/11 (RRI 
+T124345/5586).576649>)
+##$AdjStudyListConfigTime=1621866378
+##END=
+$$ File finished by PARX at 2023-05-13 23:33:33.890 +0300

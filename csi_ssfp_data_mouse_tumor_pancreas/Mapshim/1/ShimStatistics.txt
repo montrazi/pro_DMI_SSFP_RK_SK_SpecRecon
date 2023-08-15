@@ -1,0 +1,262 @@
+Map:  Study 20230513_225141_elton_9batch_tumor_mouse6_injGlu_elton_9bat_1_1
+Expno: 3 Procno: 1 ID: 1
+Shim Volume: 
+Shape Cuboid 
+Extents / mm
+1 : 41.75
+2 : 12.6801
+3 : 39.4813
+Total pixels          : 262144 in volume 82026
+Number of field values: 49776
+Shim volume:  20901.2 ul
+Pixel volume: 0.244141 ul
+Field values: 49776
+Old values:   :   
+---------------------------------------------------
+Mean 91.231 +- 300.81 Hz
+Min  -1554.35  Max 1960.76 Hz
+---------------------------------------------------
+New values (regularized):   
+---------------------------------------------------
+Mean -0.166191 +- 258.093 Hz
+Min  -1871.52  Max 1945.77 Hz
+---------------------------------------------------
+B0     = 35.1768
+       Z 	-0.0913167 A	Max:	    1.34 -6.8 %
+       X 	0.0380648 A	Max:	 1.39004 2.74 %
+       Y 	-0.0332198 A	Max:	 1.40609 -2.35 %
+      Z2 	0.139309 A	Max:	       5 2.79 %
+      ZX 	0.00421865 A	Max:	       5 0.08 %
+      ZY 	-0.0189126 A	Max:	       5 -0.37 %
+     2XY 	-0.182388 A	Max:	       5 -3.64 %
+   X2-Y2 	-0.0822532 A	Max:	       5 -1.64 %
+      Z3 	-0.295479 A	Max:	       5 -5.9 %
+     Z2X 	0.148745 A	Max:	       5 2.97 %
+     Z2Y 	0.697117 A	Max:	       5 13.94 %
+    2XYZ 	0.142504 A	Max:	       5 2.85 %
+Z(X2-Y2) 	-0.133673 A	Max:	       5 -2.66 %
+      X3 	-0.038096 A	Max:	       5 -0.75 %
+      Y3 	0.104726 A	Max:	       5 2.09 %
+SysInfo_ShimState:
+"BFG6S-100GRADSYSTEMforBC150/11 (RRI T124345/5586).576649"
+SysInfo_ShimNSPS
+2
+SysInfoShimCurrConstrained
+Total current for SPS 1 :20 A
+Shims on SPS 1
+Z2 Z3 ZX ZY 2XY X2-Y2 
+Total Shims on SPS 1 : 6
+Total current for SPS 2 :20 A
+Shims on SPS 2
+Z2X Z2Y 2XYZ Z(X2-Y2) X3 Y3 
+Total Shims on SPS 2 : 6
+SysInfo_RawShims
+Coil 1
+  Name         : Z0
+  ID           : 0
+  Max DAC val  : 32760 HWU
+  Max Current  : 0 A
+  DAC scale    : 0 A/HWU
+  Coefficients : Z0 term 2440.81Hz/cm^0
+Coil 2
+  Name         : Z
+  ID           : 1
+  Max DAC val  : 32767 HWU
+  Max Current  : 1.34 A
+  DAC scale    : 4.08948e-05 A/HWU
+  Coefficients : Z term 4242.44Hz/cm^1
+Coil 3
+  Name         : Z2
+  ID           : 2
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : Z2 term 8000Hz/cm^2
+Coil 4
+  Name         : Z3
+  ID           : 3
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : Z3 term 775Hz/cm^3
+Coil 5
+  Name         : X
+  ID           : 5
+  Max DAC val  : 32767 HWU
+  Max Current  : 1.39004 A
+  DAC scale    : 4.2422e-05 A/HWU
+  Coefficients : X term 4400.87Hz/cm^1
+Coil 6
+  Name         : Y
+  ID           : 6
+  Max DAC val  : 32767 HWU
+  Max Current  : 1.40609 A
+  DAC scale    : 4.29117e-05 A/HWU
+  Coefficients : Y term 4451.67Hz/cm^1
+Coil 7
+  Name         : ZX
+  ID           : 7
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : ZX term 2540Hz/cm^2
+Coil 8
+  Name         : ZY
+  ID           : 8
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : ZY term 2540Hz/cm^2
+Coil 9
+  Name         : 2XY
+  ID           : 9
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : 2XY term 765Hz/cm^22XYZ term 93.5Hz/cm^3
+Coil 10
+  Name         : X2-Y2
+  ID           : 10
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : X2-Y2 term 765Hz/cm^2Z(X2-Y2) term 93.5Hz/cm^3
+Coil 11
+  Name         : Z2X
+  ID           : 11
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : Z2X term 125Hz/cm^3
+Coil 12
+  Name         : Z2Y
+  ID           : 12
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : Z2Y term 125Hz/cm^3
+Coil 13
+  Name         : 2XYZ
+  ID           : 14
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : 2XY term 765Hz/cm^22XYZ term -93.5Hz/cm^3
+Coil 14
+  Name         : Z(X2-Y2)
+  ID           : 15
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : X2-Y2 term 765Hz/cm^2Z(X2-Y2) term -93.5Hz/cm^3
+Coil 15
+  Name         : X3
+  ID           : 16
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : X3 term 60Hz/cm^3
+Coil 16
+  Name         : Y3
+  ID           : 17
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : Y3 term 60Hz/cm^3
+SysInfo_ShimFunctions
+Function 1
+  Name          : Z0
+  ID            : 0
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Z0 term 2440.81Hz/cm^0
+Function 2
+  Name          : Z
+  ID            : 1
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Z term 4242.44Hz/cm^1
+Function 3
+  Name          : Z2
+  ID            : 2
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Z2 term 8000Hz/cm^2
+Function 4
+  Name          : Z3
+  ID            : 3
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Z3 term 775Hz/cm^3
+Function 5
+  Name          : X
+  ID            : 5
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : X term 4400.87Hz/cm^1
+Function 6
+  Name          : Y
+  ID            : 6
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Y term 4451.67Hz/cm^1
+Function 7
+  Name          : ZX
+  ID            : 7
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : ZX term 2540Hz/cm^2
+Function 8
+  Name          : ZY
+  ID            : 8
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : ZY term 2540Hz/cm^2
+Function 9
+  Name          : 2XY
+  ID            : 9
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : 2XY term 765Hz/cm^2
+Function 10
+  Name          : X2-Y2
+  ID            : 10
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : X2-Y2 term 765Hz/cm^2
+Function 11
+  Name          : Z2X
+  ID            : 11
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Z2X term 125Hz/cm^3
+Function 12
+  Name          : Z2Y
+  ID            : 12
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Z2Y term 125Hz/cm^3
+Function 13
+  Name          : 2XYZ
+  ID            : 14
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : 2XYZ term 93.5Hz/cm^3
+Function 14
+  Name          : Z(X2-Y2)
+  ID            : 15
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Z(X2-Y2) term 93.5Hz/cm^3
+Function 15
+  Name          : X3
+  ID            : 16
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : X3 term 60Hz/cm^3
+Function 16
+  Name          : Y3
+  ID            : 17
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Y3 term 60Hz/cm^3

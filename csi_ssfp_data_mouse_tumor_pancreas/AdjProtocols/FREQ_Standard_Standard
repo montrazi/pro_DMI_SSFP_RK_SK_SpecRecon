@@ -1,0 +1,26 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=lucio
+$$ 2023-05-13 23:18:48.854 +0300  lucio@wis15nmrpc
+$$ /opt/PV6.0.1/data/lucio/20230513_225141_elton_9batch_tumor_mouse6_injGlu_elton_9bat_1_1/AdjProtocols/FREQ_Standard_Standard
+$$ process /opt/PV6.0.1/prog/bin/parxserver
+##$Method=<Bruker:AdjSf>
+##$PVM_RepetitionTime=300
+##$Nexc=3
+##$FreqAdjRange=143137.254901961
+##$FreqRes=5.98383884803922
+##$ExcPulse1Enum=<bp>
+##$ExcPulse1Ampl=(0.01, 0.707106781186548, 20)
+##$RfPulseDur=0.05
+##$ExcPulse1=(0.05, 25600, 90, No, 4, 1280, 1, 1, 0, 50, 0.01, <bp.exc>)
+##$AcqSize=8192
+##$PVM_AcquisitionTime=167.1168
+##$PVM_EffSWh=49019.6078431373
+##$FreqOffsList=( 3 )
+-47058.8235294118 0 47058.8235294118
+##$PVM_TriggerMode=per_PhaseStep
+##$PVM_TriggerDelay=1
+##END=
+$$ File finished by PARX at 2023-05-13 23:18:48.854 +0300
