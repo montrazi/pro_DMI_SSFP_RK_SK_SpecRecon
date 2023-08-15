@@ -1,0 +1,40 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=lucio
+$$ 2021-09-08 13:38:18.880 +0300  lucio@wis15nmrpc
+$$ /opt/PV6.0.1/data/lucio/20210908_095059_elton_batch7_mouse3_2021_09_08_3_elton_batc_1_1/AdjStatePerStudy
+$$ process /opt/PV6.0.1/prog/mod/pipe
+##$AdjStudyStateCompleted=Yes
+##$AdjStudyStateResetNdx=0
+##$AdjStudyStateAdjName=( 4, 128 )
+<FREQ_Standard> <SHIM_Study> <TRANSM_Standard> <B0Map_Standard>
+##$AdjStudyStateCategory=( 4 )
+FREQ SHIM TRANSM OTHERADJ
+##$AdjStudyStateTime=( 4 )
+<2021-09-08T09:52:17,313+0300> <2021-09-08T09:52:28,680+0300> 
+<2021-09-08T09:54:13,980+0300> <2021-09-08T09:57:37,025+0300>
+##$AdjStudyStateExpno=( 4 )
+1 1 900000 4
+##$AdjStudyStateState=( 4 )
+adj_successful adj_successful adj_successful adj_successful
+##$AdjStudyStateResultId=( 4, 65 )
+<2.16.756.5.5.100.1300518730.6373.1631083937.6> 
+<2.16.756.5.5.100.1300518730.6373.1631083937.7> 
+<2.16.756.5.5.100.1300518730.7995.1631084053.7> 
+<2.16.756.5.5.100.1300518730.9187.1631084247.8>
+##$AdjStudyStateMethod=( 4, 128 )
+<Bruker:AdjSf> <Bruker:AdjShim> <Bruker:AdjRefG> <Bruker:FieldMap>
+##$AdjStudyStateMethodContext=( 4, 1024 )
+<> <> <> <>
+##$AdjStudyStateHwChainNdxs=( 4 )
+(0, 0) (0, 1) (1, 1) (2, 1)
+##$AdjStudyStateHwChains=( 3 )
+((SHIM_CHAIN, -1), <BFG6S-100GRADSYSTEMforBC150/11 (RRI T124345/5586).576649>)
+ ((TRANS_CHAIN, -2), <2.16.756.5.5.100.1300518730.21547.1623305175.33 -2 2 2 
+2 1 4 1H  0>) ((SHIM_CHAIN, -1), <BFG6S-100GRADSYSTEMforBC150/11 (RRI 
+T124345/5586).576649>)
+##$AdjStudyListConfigTime=1621866378
+##END=
+$$ File finished by PARX at 2021-09-08 13:38:18.881 +0300
