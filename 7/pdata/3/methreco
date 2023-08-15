@@ -1,0 +1,14 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=nmrsu
+$$ 2021-10-13 18:09:11.580 +0300  nmrsu@localhost.localdomain
+$$ /media/sf_virtualfolder/20210908_095059_elton_batch7_mouse3_2021_09_08_3_elton_batc_1_1/7/pdata/3/methreco
+$$ process /opt/PV6.0.1/prog/bin/parxserver
+##$RecoMethMode=FieldMap
+##$MapSnr=2
+$$ @vis= RecoMethMode MapSnr MethRecoPars ShimCalibReportGroup
+$$ @vis= MethodRecoGroup
+##END=
+$$ File finished by PARX at 2021-10-13 18:09:11.581 +0300
