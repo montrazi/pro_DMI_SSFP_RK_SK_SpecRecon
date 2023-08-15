@@ -1,0 +1,12 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=lucio
+$$ 2023-05-14 01:03:37.639 +0300  lucio@wis15nmrpc
+$$ /opt/PV6.0.1/data/lucio/20230513_225141_elton_9batch_tumor_mouse6_injGlu_elton_9bat_1_1/41/pdata/1/id
+$$ process /opt/PV6.0.1/prog/bin/parxserver
+##$DATASET_KEY=( 65 )
+<2.16.756.5.5.100.1300518730.28570.1684015417.656>
+##END=
+$$ File finished by PARX at 2023-05-14 01:03:37.639 +0300
