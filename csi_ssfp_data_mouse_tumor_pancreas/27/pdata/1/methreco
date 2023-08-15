@@ -1,0 +1,12 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=lucio
+$$ 2023-05-14 00:57:34.318 +0300  lucio@wis15nmrpc
+$$ /opt/PV6.0.1/data/lucio/20230513_225141_elton_9batch_tumor_mouse6_injGlu_elton_9bat_1_1/27/pdata/1/methreco
+$$ process /opt/PV6.0.1/prog/bin/parxserver
+##$RetroFrequencyLock_OnOff=Off
+$$ @vis= RetroFrequencyLock_OnOff MethodRecoGroup
+##END=
+$$ File finished by PARX at 2023-05-14 00:57:34.318 +0300
